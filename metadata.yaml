@@ -1,6 +1,11 @@
 _repo: The-Golden-Mean-or-Ratio--1-sqrt-5---2---13-To-20-000-places_633
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: Based on square root of 5 computed by Robert Nemiroff and Jerry Bonnell
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/633#The-Golden-Mean-or-Ratio--1-sqrt-5---2---13-To-20-000-places
 gutenberg_issued: '1996-08-01'
 gutenberg_type: Text
 identifiers:
